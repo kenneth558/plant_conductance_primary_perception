@@ -3,6 +3,8 @@ This serves notice that this project has now been made private for processing of
 
 <dl><dt>20 Jul 2022</dt></dl>I've decided to move away from Arduino microcontroller as soon as I can after proof of concept phase in favor of the production model using the Raspberry Pi Pico W microcontroller.  The advances in microcontroller technology make the Arduino terribly obsolete and relatively limiting.  The new microcontroller will mean the conductance signal of interest can be displayed on any nearby (and possibly internet-connected) device with an HTML5 browser and wifi instead of being limited to display on a laptop only.
 
+
+
 <p align=center>Do you have an idea for features?  Now is a great time for all interested parties to ask me about including capabilities you think would make this project as valuable as it can be.  Just submit an "Issue" (see the tab above) describing the device feature that would interest you.  Thank you! BEING PLANNED: Migrating/porting the code to Raspberry Pi Pico W away from Arduino allow building the appropriate adapter.   This will have the signal of interest available wirelessly via HTML5 stream to your cell phone browser.</p>
 
 <dl><dt>10 Jul 2022</dt></dl>I've produced a circuit version that condenses three stages at 5VDC into two (at the expense of precision) to operate at 3.3 VDC.  Initial readings indicate the precision is still adequate, but if not, I'll add a voltage boost to a future design and get the precision back.
