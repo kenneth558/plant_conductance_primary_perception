@@ -1,6 +1,8 @@
 # plant_conductance_primary_perception
 This serves notice that this project has now been made private for processing of copyright and patent applications
 
+<dl><dt>30 Jul 2022</dt></dl>Meeting Paul has ramped up the urgency of getting this project done even higher than bringing Eric and Pieter on board last year.  I needed that, I'm embarassed to admit.
+
 <dl><dt>20 Jul 2022</dt></dl>I've decided to move away from Arduino microcontroller as soon as I can after proof of concept phase in favor of the production model using the Raspberry Pi Pico W microcontroller.  The advances in microcontroller technology make the Arduino terribly obsolete and relatively limiting.  The new microcontroller will mean the conductance signal of interest can be displayed on any nearby (and possibly internet-connected) device with an HTML5 browser and wifi instead of being limited to display on a laptop only.
 <p></p>
 <p align=center>Do you have an idea for features?  Now is a great time for all interested parties to ask me about including capabilities you think would make this project as valuable as it can be.  Just submit an "Issue" (see the tab above) describing the device feature that would interest you.  Thank you! BEING PLANNED: Migrating/porting the code to Raspberry Pi Pico W away from Arduino allow building the appropriate adapter.   This will have the signal of interest available wirelessly via HTML5 stream to your cell phone browser.</p>
