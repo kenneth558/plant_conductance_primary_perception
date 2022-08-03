@@ -1,6 +1,8 @@
 # plant_conductance_primary_perception
 This serves notice that this project has now been made private for processing of copyright and patent applications
 
+<dl><dt>03 Aug 2022</dt></dl>A few days of research brings me to firm up better a plan to take this project up a notch.  I've fired up the new microcontroller platform that will broadcast the signal of interest in a standard HTML5 stream over wifi.  I've loaded an HTML 1.2 server (per https://www.raspberrypi.com/news/how-to-run-a-webserver-on-raspberry-pi-pico-w/) in hopes of it being a suitable starting point. Next steps are to incorporate FreeRTOS and adding HTML5 streaming.  I'll bee-bop between this sub-project and the original sub-project of improving the sampling algorithm in the old Arduino platform for later porting to the Pi Pico W.
+
 <dl><dt>30 Jul 2022</dt></dl>Meeting Paul has ramped up the urgency of getting this project done even higher than bringing Eric and Pieter on board last year.  I needed that, I'm embarassed to admit.
 
 <dl><dt>20 Jul 2022</dt></dl>I've decided to move away from Arduino microcontroller as soon as I can after proof of concept phase in favor of the production model using the Raspberry Pi Pico W microcontroller.  The advances in microcontroller technology make the Arduino terribly obsolete and relatively limiting.  The new microcontroller will mean the conductance signal of interest can be displayed on any nearby (and possibly internet-connected) device with an HTML5 browser and wifi instead of being limited to display on a laptop only.
