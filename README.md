@@ -1,6 +1,8 @@
 # plant_conductance_primary_perception
 This serves notice that this project has now been made private for processing of copyright and patent applications
 
+<dl><dt>11 Aug 2022</dt></dl>Early this morning...and just about 5 hours after I applied improvements to the family surveillance system...a burglary was attempted at the building.  The burglary AND untold damage was prevented due to my diligence with that side project, in spite of it taking much time away from this project.
+
 <dl><dt>05 Aug 2022</dt></dl>I've been working on the family surveillance system instead of this project to try to stay ahead of [burglars and vandals](https://drive.google.com/drive/folders/1b0pf9T0j0jGG7v6EXj3Siou54XZk-6vi?usp=sharing).
 
 <dl><dt>03 Aug 2022</dt></dl>A few days of research brings me to firm up better a plan to take this project up a notch.  I've fired up the new microcontroller platform that will broadcast the signal of interest in a standard HTML5 stream over wifi.  I've loaded an HTML 1.2 server (per https://www.raspberrypi.com/news/how-to-run-a-webserver-on-raspberry-pi-pico-w/) in hopes of it being a suitable starting point. Next steps are to incorporate FreeRTOS and adding HTML5 streaming.  I'll bee-bop between this sub-project and the original sub-project of improving the sampling algorithm in the old Arduino platform for later porting to the Pi Pico W.  Because the Pi Pico W is a fast device, I'm hoping I'll have the option of using either MicroPython or c++ per the librariies available.
