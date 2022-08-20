@@ -1,7 +1,7 @@
 # plant_conductance_primary_perception
 This serves notice that this project has now been made private for processing of copyright and patent applications
 
-<dl><dt>19 Aug 2022</dt></dl>I've come back to this project after needing to work on the family suveillance project.  My first step back was to realize I must immediately port my code over to the Raspberry Pi Pico W instead of "just one more small tweak" for the Arduino to run it.  The memory size of the Arduino just wouldn't allow it.  The port is a bit more than trivial $<sigh$>.
+<dl><dt>19 Aug 2022</dt></dl>I've come back to this project after needing to work on the family suveillance project.  My first step back was to realize I must immediately port my code over to the Raspberry Pi Pico W instead of "just one more small tweak" for the Arduino to run it.  The memory size of the Arduino just wouldn't allow it.  The port is a bit more than trivial <<sigh>.
 
 <dl><dt>11 Aug 2022</dt></dl>Early this morning...and just about 5 hours after I applied improvements to the family surveillance system...a burglary was attempted at the building.  The burglary AND untold damage was prevented due to my diligence with that side project, in spite of it taking much time away from this project.
 
