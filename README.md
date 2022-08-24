@@ -1,10 +1,12 @@
 # plant_conductance_primary_perception
 This serves notice that this project has now been made private for processing of copyright and patent applications
 
-<dl><dt>23 Aug 2022</dt></dl>Powering the project up with the RPi W resulted in a non-functional response.  So I went back to Arduino merely to know that the hardware is OK.  It is.  I'll make the RPI W move in two steps instead of one this time - the first step is to get the circuit working at 3.3 volts in Arduino first, THEN wire it back to the RPi W.
+<dl><dt>23 Aug 2022</dt></dl>Powering the project up with the RPi Pico W resulted in a non-functional response.  So I went back to Arduino merely to know that the hardware is OK.  It is.  I'll make the RPI W move in two steps instead of one this time - the first step is to get the circuit working at 3.3 volts in Arduino first, THEN wire it back to the RPi Pico W.
 
 
 ...and...the circuit does NOT work at 3.3v.  Time to have a very close look at relevant design parameters now.
+
+And now the circuit works at 3.3v.  Now to hook it up to the RPi Pico W
 
 <dl><dt>19 Aug 2022</dt></dl>I've come back to this project after needing to work on the family suveillance project.  My first step back was to realize I must immediately port my code over to the Raspberry Pi Pico W instead of "just one more small tweak" for the Arduino to run it.  The memory size of the Arduino just wouldn't allow it.  The port is a bit more than trivial < sigh >.
 
