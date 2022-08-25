@@ -1,7 +1,7 @@
 # plant_conductance_primary_perception
 This serves notice that this project has now been made private for processing of copyright and patent applications
 
-<dl><dt>25 Aug 2022</dt></dl>I built a re-configurable rig so that I can quickly switch back to the Arduino and the RPi Pico W.  The Arduino allows operation at the previous level of achievement.  The Pico does not, but at least I can now troubleshoot.  Time to call it a day for a few hours first.
+<dl><dt>25 Aug 2022</dt></dl>I built a re-configurable rig so that I can quickly switch back to the Arduino and the RPi Pico W.  The Arduino allows operation at the previous level of achievement.  The Pico does not show operation at an attempted next level, but at least I can now troubleshoot.  Time to call it a day for a few hours first.
 
 <dl><dt>23 Aug 2022</dt></dl>Powering the project up with the RPi Pico W resulted in a non-functional response.  So I went back to Arduino merely to know that the hardware is OK.  It is.  I'll make the RPI Pico W move in two steps instead of one this time - the first step is to get the circuit working at 3.3 volts in Arduino first, THEN wire it back to the RPi Pico W.
 
